@@ -1,0 +1,2 @@
+INSERT INTO `Pensioner` (aadhaar_Number, p_Name, dob, pan, salary, allowances, pension_Type, bank_Type) VALUES ('12341234000', 'Srija Nandi', '1998-11-30', 'QWERTY1234P', 26200, 1800, 'self', 'private');
+INSERT INTO `Pensioner` (aadhaar_Number, p_Name, dob, pan, salary, allowances, pension_Type, bank_Type) VALUES ('12341234001', 'Tanmay Ghosh', '1999-09-15', 'QWERTY1234L', 30000, 2400, 'self', 'public');
